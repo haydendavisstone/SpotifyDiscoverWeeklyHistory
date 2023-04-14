@@ -16,9 +16,10 @@ Client id and secret can be found in the 'settings' of the created app. Your use
 
 These 3 parameters will need to be added to the script, example:<br>
 
+```
 USERNAME = '8aa82gysa66hk5q7ofgriy9it'<br>
 CLIENT_ID = 'hhe64jiif9434d8894fb44499af6962f'<br>
 CLIENT_SECRET = 'j65ed093824343cd9e8c4561b902b1b5'<br>
-
+```
 
 [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
