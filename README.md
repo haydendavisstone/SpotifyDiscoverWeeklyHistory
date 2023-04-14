@@ -21,7 +21,7 @@ CLIENT_ID = 'hhe64jiif9434d8894fb44499af6962f'
 CLIENT_SECRET = 'j65ed093824343cd9e8c4561b902b1b5'
 ```
 
-I have the script set to run on start up. This can be done on Windows by adding the script to your Startup folder(Win+R and enter 'shell:startup').
+I have the script set to run on start up. This can be done on Windows by adding the script to your Startup folder(Win+R and enter 'shell:startup'). If you do this, you may need to change your options to always open the file with Python and not another app.
 
 ## Links
 
