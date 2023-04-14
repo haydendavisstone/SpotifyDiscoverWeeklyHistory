@@ -5,6 +5,7 @@ If the playlist already exists, any new songs will be added to the list and any 
 
 I have the script set to run on start up.
 
+
 [Spotify For Developers](https://developer.spotify.com/)
 
 [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
