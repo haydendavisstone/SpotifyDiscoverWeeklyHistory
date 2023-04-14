@@ -8,7 +8,7 @@ If the playlist already exists, any new songs will be added to the list and any 
 
 ## Setup
 
-To generate a client id and secret, create an app on the [dashboard](https://developer.spotify.com/dashboard) page.<br>
+To generate a client id and secret, sign in to [Spotify for Developers](https://developer.spotify.com) and create an app on the [dashboard](https://developer.spotify.com/dashboard).<br>
 When creating an app, set 'Redirect URI' to http://localhost:8888/callback<br> App name and description can be whatever.
 
 Client id and secret can be found in the 'settings' of the created app. Your username can be found on your Spotify account overview.<br>
