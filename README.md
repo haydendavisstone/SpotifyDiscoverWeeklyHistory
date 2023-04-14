@@ -5,9 +5,8 @@ If the playlist already exists, any new songs will be added to the list and any 
 
 I have the script set to run on start up. This can be done on Windows by adding the script to your Startup folder(Win+R and enter 'shell:startup').
 
-[Spotify For Developers](https://developer.spotify.com/)
 
-# Setup
+## Setup
 
 To generate a client id and secret, create an app on the [dashboard](https://developer.spotify.com/dashboard) page.<br>
 When creating an app, set 'Redirect URI' to http://localhost:8888/callback, app name and description can be whatever.<br>
@@ -22,4 +21,7 @@ CLIENT_ID = 'hhe64jiif9434d8894fb44499af6962f'
 CLIENT_SECRET = 'j65ed093824343cd9e8c4561b902b1b5'
 ```
 
+## Links
+
+[Spotify For Developers](https://developer.spotify.com/)
 [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
