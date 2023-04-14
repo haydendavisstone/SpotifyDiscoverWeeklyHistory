@@ -5,6 +5,6 @@ If the playlist already exists, any new songs will be added and any existing son
 
 I have the script set to run on pc startup.
 
-[Spotify For Developers](https://developer.spotify.com/){:target="_blank" rel="noopener"}
+[Spotify For Developers](https://developer.spotify.com/)
 
-[Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/){:target="_blank" rel="noopener"}
+[Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
