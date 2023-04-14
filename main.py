@@ -9,7 +9,7 @@ CLIENT_SECRET = config.CLIENT_SECRET
 PLAYLIST_NAME = 'Discover When You Feel Like It'
 
 scope = 'playlist-modify-public playlist-modify-private playlist-read-private playlist-read-collaborative'
-token = util.prompt_for_user_token(USERNAME, scope, CLIENT_ID, CLIENT_SECRET, redirect_uri='http://localhost:8888/callback')
+token = util.prompt_for_user_token(USERNAME, scope, CLIENT_ID, CLIENT_SECRET, redirect_uri='http://localhost:8080/callback')
 
 spotify = spotipy.Spotify(auth=token)
 
