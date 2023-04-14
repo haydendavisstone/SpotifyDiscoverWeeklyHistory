@@ -7,6 +7,8 @@ I have the script set to run on start up. This can be done on Windows by adding 
 
 [Spotify For Developers](https://developer.spotify.com/)
 
+#Setup
+
 To generate a client id and secret, create an app on the [dashboard](https://developer.spotify.com/dashboard) page.
 When creating an app, set 'Redirect URI' to http://localhost:8888/callback, app name and description can be whatever.
 
@@ -17,5 +19,6 @@ These 3 parameters will need to be added to the script, example:
 USERNAME = '8aa82gysa66hk5q7ofgriy9it'
 CLIENT_ID = 'hhe64jiif9434d8894fb44499af6962f'
 CLIENT_SECRET = 'j65ed093824343cd9e8c4561b902b1b5'
+
 
 [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
