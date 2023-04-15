@@ -1,10 +1,9 @@
-import config
 import spotipy
 import spotipy.util as util
 
-USERNAME = config.USERNAME
-CLIENT_ID = config.CLIENT_ID
-CLIENT_SECRET = config.CLIENT_SECRET
+USERNAME = ''
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 PLAYLIST_NAME = 'Discover When You Feel Like It'
 
