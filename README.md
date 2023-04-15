@@ -27,5 +27,3 @@ I have the script set to run on start up. This can be done on Windows by adding 
 
 [Spotify For Developers](https://developer.spotify.com/) <br>
 [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
-
-<a href="https://developer.spotify.com/" target="_blank">Opens in new tab</a>
