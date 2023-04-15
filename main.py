@@ -5,7 +5,7 @@ USERNAME = ''
 CLIENT_ID = ''
 CLIENT_SECRET = ''
 
-PLAYLIST_NAME = 'Discover When You Feel Like It'
+PLAYLIST_NAME = 'Discover Weekly History'
 
 scope = 'playlist-modify-public playlist-modify-private playlist-read-private playlist-read-collaborative'
 token = util.prompt_for_user_token(USERNAME, scope, CLIENT_ID, CLIENT_SECRET, redirect_uri='http://localhost:8080/callback')
